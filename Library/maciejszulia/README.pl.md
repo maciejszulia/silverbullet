@@ -75,7 +75,7 @@ Wybierz dokładnie 1 sposób:
 1. Library Manager: uruchom komendę `Library: Add Repository` z adresem `https://github.com/maciejszulia/silverbullet/blob/main/REPO.md`. Potem zainstaluj bibliotekę z listy.
 2. Instalacja ręczna: skopiuj stronę biblioteki do przestrzeni pod tą samą ścieżką, na przykład `Library/maciejszulia/Decision Inbox.md`. Potem uruchom komendę `System: Reload`.
 
-Library Manager istnieje od wersji `2.3.0` SilverBulleta (plik [CHANGELOG.md](../../CHANGELOG.md) upstreamu). Komendy `Library: Add Repository` i `Library: Install` istnieją w wersji `2.12.1`. Autor nie sprawdził wersji starszych niż `2.12.1`.
+Library Manager istnieje od wersji `2.3.0` SilverBulleta (plik [CHANGELOG.md](../../CHANGELOG.md) upstreamu). Komendy `Library: Add Repository` i `Library: Install` istnieją w tagach `2.9.0`, `2.10.0`, `2.11.0` i `2.12.0` (plik `plugs/configuration-manager/configuration-manager.plug.yaml`) oraz w wersji `2.12.1`. Autor nie sprawdził instalacji tych bibliotek przez Library Manager.
 
 ## Działanie przycisku „Odpowiedz”
 

@@ -57,7 +57,7 @@ Requirements: the silverbullet-ai plug 0.9.3, installed separately (this page on
 - **Library Manager**: run `Library: Add Repository` with `https://github.com/maciejszulia/silverbullet/blob/main/REPO.md`, then install a library from the list.
 - **By hand**: copy the library page into your space under the same path, for example `Library/maciejszulia/Decision Inbox.md`, then run `System: Reload`.
 
-The Library Manager has existed since SilverBullet 2.3.0 (upstream [CHANGELOG.md](../../CHANGELOG.md)). The commands `Library: Add Repository` and `Library: Install` exist in version 2.12.1; versions older than 2.12.1 are untested.
+The Library Manager has existed since SilverBullet 2.3.0 (upstream [CHANGELOG.md](../../CHANGELOG.md)). The commands `Library: Add Repository` and `Library: Install` are defined in the release tags 2.9.0, 2.10.0, 2.11.0 and 2.12.0 (`plugs/configuration-manager/configuration-manager.plug.yaml`) and in version 2.12.1. Installing these libraries through the Library Manager has not been tested yet.
 
 ## How the reply button works
 
