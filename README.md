@@ -1,3 +1,5 @@
+> This fork adds SilverBullet libraries by Maciej Szulia: see [Library/maciejszulia/README.md](Library/maciejszulia/README.md). Upstream project: [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet).
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet)
 ![Docker Pulls](https://img.shields.io/docker/pulls/zefhemel/silverbullet)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/silverbulletmd/silverbullet/total)
